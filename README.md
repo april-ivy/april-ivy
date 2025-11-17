@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  last listened to <!-- music:start -->%music%<!-- music:end -->
+  last listened to <!-- music:start --><span data-music>2 seater (keroro) - hi-c</span><!-- music:end -->
 </p>
