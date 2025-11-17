@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  %music%
+  <!-- music:start -->%music%<!-- music:end -->
 </p>
