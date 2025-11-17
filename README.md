@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  last listened to <span data-music>d3us 3x by hi-c</span>
+  last listened to <span data-music>clipfarm by bby goyard</span>
 </p>
