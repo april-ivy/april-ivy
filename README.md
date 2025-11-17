@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  last listened to <span data-music>grizzley 32 by bby goyard</span>
+  last listened to <span data-music>four seasons by osquinn</span>
 </p>
