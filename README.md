@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="img/banner.png" alt="Banner" width="100%" />
+  <img src="img/banner.png" alt="banner" width="100%" />
 </p>
 
 <p align="center">
-  last listened to <!-- music:start -->%music%<!-- music:end -->
+  last listened to <span data-music>%music%</span>
 </p>
