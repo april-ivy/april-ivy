@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <!-- music:start -->🎧 heinous nonsense - Yuke<!-- music:end -->
+  <!-- music:start -->🎧 Worst Part - OsamaSon<!-- music:end -->
 </p>
