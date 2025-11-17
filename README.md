@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  last listened to <span data-music>nisemono by ginger root</span>
+  last listened to <span data-music>everything's alright (meet you in the galaxy ending theme) by ginger root</span>
 </p>
