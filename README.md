@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <!-- music:start -->%music%<!-- music:end -->
+  <!-- music:start -->Bless Up - 1oneam<!-- music:end -->
 </p>
