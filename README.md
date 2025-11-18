@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  last listened to <span data-music>phreshboyswag, one take freestyle (prod ss3bby) #1c34 by ss3bby</span>
+  last listened to <span data-music>faith by xaviersobased</span>
 </p>
