@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  last listened to <span data-music>decay by bladee</span>
+  last listened to <span data-music>terrible excellence (feat. yung lean) by bladee</span>
 </p>
