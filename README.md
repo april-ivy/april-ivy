@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  last listened to <span data-music>ion kno by xaviersobased</span>
+  last listened to <span data-music>eye roll emoji by phreshboyswag</span>
 </p>
