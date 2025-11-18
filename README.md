@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  last listened to <span data-music>eye roll emoji by phreshboyswag</span>
+  last listened to <span data-music>double whammy (ss3bby yaridubz) by xaviersobased</span>
 </p>
