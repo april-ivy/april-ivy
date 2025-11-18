@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  last listened to <span data-music>we still onnat same shit!!! by ksuuvi</span>
+  last listened to <span data-music>10story by exodus1900</span>
 </p>
