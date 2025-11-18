@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  last listened to <span data-music>don't you go saying that by osquinn</span>
+  last listened to <span data-music>let go by osquinn</span>
 </p>
