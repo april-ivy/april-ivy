@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  last listened to <span data-music>seatbelt off by edward skeletrix</span>
+  last listened to <span data-music>sacrifices by edward skeletrix</span>
 </p>
