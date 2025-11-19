@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  last listened to <span data-music>nikes (me, cranes, n cj808) by xaviersobased</span>
+  last listened to <span data-music>inspire by phreshboyswag</span>
 </p>
