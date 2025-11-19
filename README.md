@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  last listened to <span data-music>sloppy joe by slayr</span>
+  last listened to <span data-music>open the door by phreshboyswag</span>
 </p>
