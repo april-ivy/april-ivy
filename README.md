@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  last listened to <span data-music>typical rap song 12 by edward skeletrix</span>
+  last listened to <span data-music>never put my faith in her by tenkay</span>
 </p>
