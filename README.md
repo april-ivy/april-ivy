@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  last listened to <span data-music>cut off your hands by che</span>
+  last listened to <span data-music>antichrist by funeral</span>
 </p>
