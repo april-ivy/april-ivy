@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  last listened to <span data-music>1c tattoo by deproved</span>
+  last listened to <span data-music>banned again by tenkay</span>
 </p>
