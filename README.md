@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  last listened to <span data-music>90 down the block by dj rennessy</span>
+  last listened to <span data-music>40 - dj ess mix by evilgiane</span>
 </p>
