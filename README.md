@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  last listened to <span data-music>linda by xaviersobased</span>
+  last listened to <span data-music>wrist work by xaviersobased</span>
 </p>
