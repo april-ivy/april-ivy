@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  last listened to <span data-music>austin powers by maxon</span>
+  last listened to <span data-music>detransitioning by uboa</span>
 </p>
