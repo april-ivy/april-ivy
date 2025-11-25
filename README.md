@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  last listened to <span data-music>tweak anthem by ways</span>
+  last listened to <span data-music>what zit tooya by xaviersobased</span>
 </p>
