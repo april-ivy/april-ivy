@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  last listened to <span data-music>utoldmeiwasafuckupgirl by xaviersobased</span>
+  last listened to <span data-music>heinous nonsense by yuke</span>
 </p>
