@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  last listened to <span data-music>i hope my brain is pink by bank method</span>
+  last listened to <span data-music>half a heart by bank method</span>
 </p>
