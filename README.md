@@ -1,3 +1,3 @@
 <p align="center">
-  last listened to <span data-music>on my own by xaviersobased</span>
+  last listened to <span data-music>fun by edward skeletrix</span>
 </p>
