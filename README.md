@@ -1,3 +1,3 @@
 <p align="center">
-  last listened to <span data-music>drug dealer injects his fentanyl (psychosis) by edward skeletrix</span>
+  last listened to <span data-music>decay by bladee</span>
 </p>
