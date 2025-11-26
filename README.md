@@ -1,3 +1,3 @@
 <p align="center">
-  last listened to <span data-music>beach leak by nettspend</span>
+  last listened to <span data-music>pillowfight by fakemink</span>
 </p>
