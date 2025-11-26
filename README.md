@@ -1,3 +1,3 @@
 <p align="center">
-  last listened to <span data-music>yea freestyle by roxas358</span>
+  last listened to <span data-music>take a walk by xaviersobased</span>
 </p>
