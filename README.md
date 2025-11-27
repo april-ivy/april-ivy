@@ -1,3 +1,3 @@
 <p align="center">
-  last listened to <span data-music>plan b by deproved</span>
+  last listened to <span data-music>eye roll emoji by phreshboyswag</span>
 </p>
