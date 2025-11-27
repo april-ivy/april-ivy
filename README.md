@@ -1,3 +1,3 @@
 <p align="center">
-  last listened to <span data-music>rawr*xd by dj phat</span>
+  last listened to <span data-music>stressed by nettspend</span>
 </p>
