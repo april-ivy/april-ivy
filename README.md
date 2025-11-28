@@ -1,3 +1,3 @@
 <p align="center">
-  last listened to <span data-music>what zit tooya by xaviersobased</span>
+  last listened to <span data-music>drug dealer injects his fentanyl (psychosis) by edward skeletrix</span>
 </p>
