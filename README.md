@@ -1,3 +1,3 @@
 <p align="center">
-  last listened to <span data-music>lil o the impaler by osamason</span>
+  last listened to <span data-music>freestyle by osamason</span>
 </p>
