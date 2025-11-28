@@ -1,3 +1,3 @@
 <p align="center">
-  last listened to <span data-music>1c tattoo by deproved</span>
+  last listened to <span data-music>idgaf by deproved</span>
 </p>
