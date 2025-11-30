@@ -1,3 +1,3 @@
 <p align="center">
-  last listened to <span data-music>hero of my story 3style3 by bladee</span>
+  last listened to <span data-music>i dont witness you as anything by osquinn</span>
 </p>
