@@ -1,3 +1,3 @@
 <p align="center">
-  last listened to <span data-music>lord of chaos by ken carson</span>
+  last listened to <span data-music>the whole world is free by osamason</span>
 </p>
