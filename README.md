@@ -1,3 +1,3 @@
 last listened to
 
-<span data-music><img src="https://lastfm.freetls.fastly.net/i/u/300x300/4b51160613191ac79997eb10e4465e3f.jpg" alt="" width="128" height="128" align="left" /><samp><strong>DON'T WANT</strong><br/>by Adamn Killa<br/>from DON'T WANT<br/><br/><em>now playing</em></samp></span>
+<span data-music><img src="https://lastfm.freetls.fastly.net/i/u/300x300/ef607e25600547bdffe091e19e086e93.jpg" alt="" width="128" height="128" align="left" /><samp><strong>this song is called poison ice</strong><br/>by heartstopmiami<br/>from this song is called poison ice<br/><br/><em>now playing</em></samp></span>
