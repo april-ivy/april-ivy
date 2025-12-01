@@ -1,3 +1,3 @@
 <p align="center">
-  last listened to <span data-music>w(0n) twic[e] by heartstopmiami</span>
+  last listened to <span data-music>mongo by xaviersobased</span>
 </p>
