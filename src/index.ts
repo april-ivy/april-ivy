@@ -6,6 +6,7 @@ interface TrackInfo {
   title: string;
   artist: string;
   album?: string;
+  albumArt?: string;
   nowPlaying: boolean;
   playedAt: number;
 }
@@ -13,6 +14,8 @@ interface TrackInfo {
 interface CacheEntry {
   title: string;
   artist: string;
+  album?: string;
+  albumArt?: string;
   nowPlaying: boolean;
   lastUpdatedIso: string;
 }
@@ -95,6 +98,11 @@ async function fetchRecentTrack(): Promise<TrackInfo | null> {
     return null;
   }
 
+  const images = recent.image || [];
+  const albumArt = images.find(img => img.size === "extralarge")?.["#text"] 
+    || images.find(img => img.size === "large")?.["#text"]
+    || images.find(img => img.size === "medium")?.["#text"];
+
   const nowPlaying = recent["@attr"]?.nowplaying === "true";
   const uts = recent.date?.uts ? Number(recent.date.uts) * 1000 : Date.now();
 
@@ -102,6 +110,7 @@ async function fetchRecentTrack(): Promise<TrackInfo | null> {
     title: recent.name ?? "Unknown track",
     artist: recent.artist?.["#text"] ?? "Unknown artist",
     album: recent.album?.["#text"],
+    albumArt,
     nowPlaying,
     playedAt: uts,
   };
@@ -152,7 +161,7 @@ async function updateReadme(track: TrackInfo): Promise<boolean> {
     method: "PUT",
     headers,
     body: JSON.stringify({
-      message: `docs(readme): music -> ${formatted}`,
+      message: `docs(readme): music -> ${track.title} by ${track.artist}`,
       content: Buffer.from(nextReadme, "utf-8").toString("base64"),
       sha: data.sha,
       branch: config.githubBranch,
@@ -167,7 +176,41 @@ async function updateReadme(track: TrackInfo): Promise<boolean> {
 }
 
 function formatTrack(track: TrackInfo): string {
-  return `${track.title} by ${track.artist}`.toLowerCase();
+  const timeAgo = getTimeAgo(track.playedAt);
+  
+  if (track.albumArt) {
+    let lines = [
+      `<strong>${track.title}</strong>`,
+      `by ${track.artist}`
+    ];
+    
+    if (track.album) {
+      lines.push(`from ${track.album}`);
+    }
+    
+    lines.push('');
+    
+    if (track.nowPlaying) {
+      lines.push('<em>now playing</em>');
+    } else {
+      lines.push(timeAgo);
+    }
+    
+    const info = lines.join('<br/>');
+    
+    return `<img src="${track.albumArt}" alt="" width="128" height="128" align="left" /><samp>${info}</samp>`;
+  }
+  
+  return `<samp><strong>${track.title}</strong><br/>by ${track.artist}</samp>`;
+}
+
+function getTimeAgo(timestamp: number): string {
+  const seconds = Math.floor((Date.now() - timestamp) / 1000);
+  
+  if (seconds < 60) return "just now";
+  if (seconds < 3600) return `${Math.floor(seconds / 60)} minutes ago`;
+  if (seconds < 86400) return `${Math.floor(seconds / 3600)} hours ago`;
+  return `${Math.floor(seconds / 86400)} days ago`;
 }
 
 async function loadCache(): Promise<CacheEntry | null> {
@@ -187,6 +230,8 @@ async function saveCache(track: TrackInfo) {
   const entry: CacheEntry = {
     title: track.title,
     artist: track.artist,
+    album: track.album,
+    albumArt: track.albumArt,
     nowPlaying: track.nowPlaying,
     lastUpdatedIso: new Date().toISOString(),
   };
@@ -201,6 +246,8 @@ function shouldUpdate(track: TrackInfo, cache: CacheEntry | null): boolean {
   if (
     cache.title !== track.title ||
     cache.artist !== track.artist ||
+    cache.album !== track.album ||
+    cache.albumArt !== track.albumArt ||
     cache.nowPlaying !== track.nowPlaying
   ) {
     return true;
@@ -258,6 +305,7 @@ interface LastFmResponse {
       name?: string;
       artist?: { "#text"?: string };
       album?: { "#text"?: string };
+      image?: Array<{ "#text"?: string; size?: string }>;
       date?: { uts?: string };
       "@attr"?: { nowplaying?: string };
     }>;
