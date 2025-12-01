@@ -1,3 +1,3 @@
 last listened to
 
-<span data-music><img src="https://lastfm.freetls.fastly.net/i/u/300x300/db7974b1de978d28da74c427fb55ce19.jpg" alt="" width="128" height="128" align="left" /><strong>sons</strong><br/>by Kuru<br/>from sons<br/>2 hours ago</span>
+<span data-music><img src="https://lastfm.freetls.fastly.net/i/u/300x300/f3f2587b3c0670f1813103faeda83f22.jpg" alt="" width="128" height="128" align="left" /><strong>i feel like a dog</strong><br/>by meat computer<br/>from i feel like a dog<br/><em>now playing</em></span>
