@@ -1,3 +1,3 @@
 last listened to
 
-<span data-music><img src="https://lastfm.freetls.fastly.net/i/u/300x300/f3f2587b3c0670f1813103faeda83f22.jpg" alt="" width="128" height="128" align="left" /><strong>i feel like a dog</strong><br/>by meat computer<br/>from i feel like a dog<br/><em>now playing</em></span>
+<span data-music><img src="https://lastfm.freetls.fastly.net/i/u/300x300/df7d7d3feda92a3cc661efa5044cd3b8.jpg" alt="" width="128" height="128" align="left" /><strong>hidden matrix psychosis</strong><br/>by meat computer<br/>from new world disorder<br/><em>now playing</em></span>
