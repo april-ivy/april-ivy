@@ -1,1 +1,1 @@
-<span data-music><img src="https://lastfm.freetls.fastly.net/i/u/300x300/fd13f59b245fa579e61406fb65f585d1.jpg" alt="" width="128" height="128" align="left" /><samp><strong>Decay</strong><br/>by Bladee<br/>from Red Light<br/><br/><em>now playing</em></samp></span>
+<span data-music><img src="https://lastfm.freetls.fastly.net/i/u/300x300/22aac13b51962417e796e2e79d80b709.jpg" alt="" width="128" height="128" align="left" /><samp><strong>what zit tooya</strong><br/>by xaviersobased<br/>from with 2 (hosted by d9lton)<br/><br/><em>now playing</em></samp></span>
