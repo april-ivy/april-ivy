@@ -1,1 +1,1 @@
-<span data-music><img src="https://lastfm.freetls.fastly.net/i/u/300x300/5975e57647c592c2761e7780d07575ca.jpg" alt="" width="128" height="128" align="left" /><samp><strong>Like Me</strong><br/>by osquinn<br/>from Stars Fell on Trench<br/><br/><em>now playing</em></samp></span>
+<span data-music><img src="https://lastfm.freetls.fastly.net/i/u/300x300/5975e57647c592c2761e7780d07575ca.jpg" alt="" width="128" height="128" align="left" /><samp><strong>Godspeed Freestyle</strong><br/>by osquinn<br/>from Stars Fell on Trench<br/><br/><em>now playing</em></samp></span>
