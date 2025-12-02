@@ -1,1 +1,1 @@
-<span data-music><img src="https://lastfm.freetls.fastly.net/i/u/300x300/7e59ecca6c449acbfbdeac89fd664477.jpg" alt="" width="128" height="128" align="left" /><samp><strong>eye roll emoji</strong><br/>by phreshboyswag<br/>from eye roll emoji<br/><br/><em>now playing</em></samp></span>
+<span data-music><img src="https://lastfm.freetls.fastly.net/i/u/300x300/fd13f59b245fa579e61406fb65f585d1.jpg" alt="" width="128" height="128" align="left" /><samp><strong>Decay</strong><br/>by Bladee<br/>from Red Light<br/><br/><em>now playing</em></samp></span>
