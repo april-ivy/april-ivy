@@ -1,1 +1,1 @@
-<span data-music><img src="https://lastfm.freetls.fastly.net/i/u/300x300/8e84b293125bdc88cdf308bc744fc6fd.jpg" alt="" width="128" height="128" align="left" /><samp><strong>Hero of My Story 3style3</strong><br/>by Bladee<br/>from 333<br/><br/>5 minutes ago</samp></span>
+<span data-music><img src="https://lastfm.freetls.fastly.net/i/u/300x300/f3f2587b3c0670f1813103faeda83f22.jpg" alt="" width="128" height="128" align="left" /><samp><strong>i feel like a dog</strong><br/>by meat computer<br/>from i feel like a dog<br/><br/><em>now playing</em></samp></span>
