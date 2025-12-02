@@ -1,1 +1,1 @@
-<span data-music><img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" alt="" width="128" height="128" align="left" /><samp><strong>Out of Harms Way</strong><br/>by Gordian Stimm<br/>from Slow Dance 23.6<br/><br/><em>now playing</em></samp></span>
+<span data-music><img src="https://lastfm.freetls.fastly.net/i/u/300x300/fab16aef4b1d29ba785c398489401f04.jpg" alt="" width="128" height="128" align="left" /><samp><strong>yh i kno</strong><br/>by phreshboyswag<br/>from yh i kno<br/><br/>4 hours ago</samp></span>
