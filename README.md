@@ -1,1 +1,1 @@
-<span data-music><img src="https://lastfm.freetls.fastly.net/i/u/300x300/1607d2336b96088bcaf0614b8c1c3eda.jpg" alt="" width="128" height="128" align="left" /><samp><strong>patchmade</strong><br/>by xaviersobased<br/>from install<br/><br/><em>now playing</em></samp></span>
+<span data-music><img src="https://lastfm.freetls.fastly.net/i/u/300x300/8e84b293125bdc88cdf308bc744fc6fd.jpg" alt="" width="128" height="128" align="left" /><samp><strong>Hero of My Story 3style3</strong><br/>by Bladee<br/>from 333<br/><br/>3 minutes ago</samp></span>
