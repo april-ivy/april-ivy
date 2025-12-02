@@ -1,1 +1,1 @@
-<span data-music><img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" alt="" width="128" height="128" align="left" /><samp><strong>bad habitsss freestyle</strong><br/>by phreshboyswag<br/>from bad habitsss freestyle<br/><br/><em>now playing</em></samp></span>
+<span data-music><img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" alt="" width="128" height="128" align="left" /><samp><strong>Bleau</strong><br/>by sevgilim<br/>from Bleau<br/><br/><em>now playing</em></samp></span>
