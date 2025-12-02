@@ -1,1 +1,1 @@
-<span data-music><img src="https://lastfm.freetls.fastly.net/i/u/300x300/e4da9bf6b37849a675c7e6a18fdeb710.jpg" alt="" width="128" height="128" align="left" /><samp><strong>Gatekeeper</strong><br/>by Bladee<br/>from Working on Dying<br/><br/><em>now playing</em></samp></span>
+<span data-music><img src="https://lastfm.freetls.fastly.net/i/u/300x300/7e59ecca6c449acbfbdeac89fd664477.jpg" alt="" width="128" height="128" align="left" /><samp><strong>eye roll emoji</strong><br/>by phreshboyswag<br/>from eye roll emoji<br/><br/><em>now playing</em></samp></span>
