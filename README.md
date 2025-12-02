@@ -1,1 +1,1 @@
-<span data-music><img src="https://lastfm.freetls.fastly.net/i/u/300x300/f28708af2156091c4bf3828b25094e06.png" alt="" width="128" height="128" align="left" /><samp><strong>Funuhyuh</strong><br/>by nettspend<br/>from Funuhyuh<br/><br/><em>now playing</em></samp></span>
+<span data-music><img src="https://lastfm.freetls.fastly.net/i/u/300x300/22aac13b51962417e796e2e79d80b709.jpg" alt="" width="128" height="128" align="left" /><samp><strong>what zit tooya</strong><br/>by xaviersobased<br/>from with 2 (hosted by d9lton)<br/><br/><em>now playing</em></samp></span>
