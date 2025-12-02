@@ -1,1 +1,1 @@
-<span data-music><img src="https://lastfm.freetls.fastly.net/i/u/300x300/d7904189e6162a14103909a0e98c9423.jpg" alt="" width="128" height="128" align="left" /><samp><strong>let go</strong><br/>by osquinn<br/>from lowlife<br/><br/><em>now playing</em></samp></span>
+<span data-music><img src="https://lastfm.freetls.fastly.net/i/u/300x300/22aac13b51962417e796e2e79d80b709.jpg" alt="" width="128" height="128" align="left" /><samp><strong>Aight</strong><br/>by xaviersobased<br/>from with 2 (hosted by d9lton)<br/><br/>2 minutes ago</samp></span>
