@@ -1,1 +1,1 @@
-<span data-music><img src="https://lastfm.freetls.fastly.net/i/u/300x300/ee46730b4a8c04f9a71060ba5e96dc86.jpg" alt="" width="128" height="128" align="left" /><samp><strong>47 w me</strong><br/>by xaviersobased<br/>from And 3<br/><br/><em>now playing</em></samp></span>
+<span data-music><img src="https://lastfm.freetls.fastly.net/i/u/300x300/18c847ec10a62a2d31d7dd4c8360de7f.jpg" alt="" width="128" height="128" align="left" /><samp><strong>mongo</strong><br/>by xaviersobased<br/>from xav on tour<br/><br/><em>now playing</em></samp></span>
