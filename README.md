@@ -1,1 +1,1 @@
-<span data-music><img src="https://lastfm.freetls.fastly.net/i/u/300x300/8e84b293125bdc88cdf308bc744fc6fd.jpg" alt="" width="128" height="128" align="left" /><samp><strong>Hero of My Story 3style3</strong><br/>by Bladee<br/>from 333<br/><br/>2 minutes ago</samp></span>
+<span data-music><img src="https://lastfm.freetls.fastly.net/i/u/300x300/3908f2ebe4c93fa21f3b0cabb066a621.jpg" alt="" width="128" height="128" align="left" /><samp><strong>Hotel Breakfast</strong><br/>by Bladee<br/>from The Fool<br/><br/><em>now playing</em></samp></span>
