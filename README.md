@@ -1,1 +1,1 @@
-<span data-music><img src="https://lastfm.freetls.fastly.net/i/u/300x300/ee46730b4a8c04f9a71060ba5e96dc86.jpg" alt="" width="128" height="128" align="left" /><samp><strong>47 w me</strong><br/>by xaviersobased<br/>from And 3<br/><br/><em>now playing</em></samp></span>
+<span data-music><img src="https://lastfm.freetls.fastly.net/i/u/300x300/81707b15026124afbcc2f3f4ad25d958.png" alt="" width="128" height="128" align="left" /><samp><strong>Burn</strong><br/>by August<br/>from burn<br/><br/><em>now playing</em></samp></span>
