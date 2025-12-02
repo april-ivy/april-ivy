@@ -1,1 +1,1 @@
-<span data-music><img src="https://lastfm.freetls.fastly.net/i/u/300x300/6893332c459d779c9e00b3a09aa31589.jpg" alt="" width="128" height="128" align="left" /><samp><strong>Waster</strong><br/>by Bladee<br/>from Icedancer<br/><br/><em>now playing</em></samp></span>
+<span data-music><img src="https://lastfm.freetls.fastly.net/i/u/300x300/d7904189e6162a14103909a0e98c9423.jpg" alt="" width="128" height="128" align="left" /><samp><strong>let go</strong><br/>by osquinn<br/>from lowlife<br/><br/><em>now playing</em></samp></span>
