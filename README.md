@@ -1,1 +1,1 @@
-<span data-music><img src="https://lastfm.freetls.fastly.net/i/u/300x300/b7cfdadc6668426d07ed5f8261f6d6f7.jpg" alt="" width="128" height="128" align="left" /><samp><strong>i dont witness you as anything</strong><br/>by osquinn<br/>from Before You Press Play<br/><br/><em>now playing</em></samp></span>
+<span data-music><img src="https://lastfm.freetls.fastly.net/i/u/300x300/b7cfdadc6668426d07ed5f8261f6d6f7.jpg" alt="" width="128" height="128" align="left" /><samp><strong>tmb</strong><br/>by osquinn<br/>from Before You Press Play<br/><br/><em>now playing</em></samp></span>
