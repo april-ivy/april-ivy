@@ -1,1 +1,1 @@
-<span data-music><img src="https://lastfm.freetls.fastly.net/i/u/300x300/3908f2ebe4c93fa21f3b0cabb066a621.jpg" alt="" width="128" height="128" align="left" /><samp><strong>Hotel Breakfast</strong><br/>by Bladee<br/>from The Fool<br/><br/>35 minutes ago</samp></span>
+<span data-music><img src="https://lastfm.freetls.fastly.net/i/u/300x300/3908f2ebe4c93fa21f3b0cabb066a621.jpg" alt="" width="128" height="128" align="left" /><samp><strong>Hotel Breakfast</strong><br/>by Bladee<br/>from The Fool<br/><br/>45 minutes ago</samp></span>
