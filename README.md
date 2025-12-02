@@ -1,1 +1,1 @@
-<span data-music><img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" alt="" width="128" height="128" align="left" /><samp><strong>Bleau</strong><br/>by sevgilim<br/>from Bleau<br/><br/><em>now playing</em></samp></span>
+<span data-music><img src="https://lastfm.freetls.fastly.net/i/u/300x300/f9c1e11fc28c33d7b90bc8591da4414b.jpg" alt="" width="128" height="128" align="left" /><samp><strong>where the racks at</strong><br/>by nettspend<br/>from where the racks at<br/><br/><em>now playing</em></samp></span>
