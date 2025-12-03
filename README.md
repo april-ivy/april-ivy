@@ -1,1 +1,1 @@
-<span data-music><img src="https://lastfm.freetls.fastly.net/i/u/300x300/1607d2336b96088bcaf0614b8c1c3eda.jpg" alt="" width="128" height="128" align="left" /><samp><strong>patchmade</strong><br/>by xaviersobased<br/>from install<br/><br/><em>now playing</em></samp></span>
+<span data-music><img src="https://lastfm.freetls.fastly.net/i/u/300x300/70d113209794ba2bc85e551746de1b36.jpg" alt="" width="128" height="128" align="left" /><samp><strong>FREESTYLE</strong><br/>by OsamaSon<br/>from Flex Musix (FLXTRA)<br/><br/>3 minutes ago</samp></span>
