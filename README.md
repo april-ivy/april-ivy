@@ -1,1 +1,1 @@
-<span data-music><img src="https://lastfm.freetls.fastly.net/i/u/300x300/ee46730b4a8c04f9a71060ba5e96dc86.jpg" alt="" width="128" height="128" align="left" /><samp><strong>47 w me</strong><br/>by xaviersobased<br/>from And 3<br/><br/>19 hours ago</samp></span>
+<span data-music><img src="https://lastfm.freetls.fastly.net/i/u/300x300/4bf050af1afd8a98dc34bf3d01790c63.jpg" alt="" width="128" height="128" align="left" /><samp><strong>Walk in the park</strong><br/>by Feng<br/>from Walk in the park<br/><br/><em>now playing</em></samp></span>
